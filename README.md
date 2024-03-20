@@ -1,4 +1,4 @@
-This library has been forked from the original version created by François Raminosona in order to make fixes to support Maui and .NET 8.
+This library has been forked from the original version created by François Raminosona in order to make fixes to support Maui and .NET 7.
 
 # Laerdal.Dfu.Bindings.iOS
 
